@@ -1,0 +1,5 @@
+{
+  "name": "IDC On-site Ops Work Order App",
+  "description": "A mobile-first work order management application for IDC on-site operations staff, guiding them through complex tasks like server reconfiguration with step-by-step instructions, parts management, and verification.",
+  "requestFramePermissions": []
+}
